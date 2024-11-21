@@ -1,0 +1,31 @@
+.player{
+    width: 300px;
+}
+div{
+    width: 300px;
+    border: 20px inset black;
+    background-color: gray;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 70px;
+    box-shadow: 10px 10px 10px black;
+}
+div p{
+    text-align: justify;
+}
+#hardikDiv{
+    background-color: blanchedalmond;
+    border: 20px outset;
+
+}
+#gaikwadDiv{
+    background-color: rgb(113, 184, 145);
+    border: 20px groove;
+}
+nav{
+    font-size: 2rem; 
+
+
+}
